@@ -1,0 +1,2 @@
+# ymproManager
+- ymproApp のDBをAPIをとおしていじれる
